@@ -1,0 +1,9 @@
+server:  
+  port: ${PORT:7878}
+
+spring:
+  application:
+    name: gps-service
+
+
+
